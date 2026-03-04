@@ -137,8 +137,8 @@ Langkah utama algoritma RSA:
 
 Kunci yang dihasilkan:
 
--   **Public Key** → `(e, n)`
--   **Private Key** → `(d, n)`
+-   **Public Key** = `(e, n)`
+-   **Private Key** = `(d, n)`
 
 ------------------------------------------------------------------------
 
