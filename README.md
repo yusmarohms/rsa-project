@@ -95,6 +95,10 @@ Solusi:
 
 Contoh hasil ketika program dijalankan:
 
+```{=html}
+<!-- -->
+```
+
 === HASIL KEY GENERATION ===
 Public Key  : (7, 187)
 Private Key : (23, 187)
@@ -106,6 +110,10 @@ Ciphertext : [30, 86, 32]
 Ciphertext : [30, 86, 32, 32]
 Ciphertext : [30, 86, 32, 32, 139]
 Hasil Dekripsi : HELLO
+
+```{=html}
+<!-- -->
+```
 
 ------------------------------------------------------------------------
 
