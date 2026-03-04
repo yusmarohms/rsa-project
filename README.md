@@ -76,17 +76,11 @@ Solusi:
 2.  Klik **address bar** di File Explorer
 3.  Ketik:
 
-```{=html}
-<!-- -->
-```
     cmd
 
 4.  Tekan **Enter**
 5.  Jalankan kembali:
 
-```{=html}
-<!-- -->
-```
     python rsa.py
 
 ------------------------------------------------------------------------
@@ -115,24 +109,15 @@ Langkah utama algoritma RSA:
 
 1.  Pilih dua bilangan prima `p` dan `q`
 2.  Hitung
-
-```{=html}
-<!-- -->
-```
+3.  
     n = p × q
 
-3.  Hitung
+4.  Hitung
 
-```{=html}
-<!-- -->
-```
     φ(n) = (p-1)(q-1)
 
 4.  Pilih `e` sehingga
 
-```{=html}
-<!-- -->
-```
     1 < e < φ(n)
     gcd(e, φ(n)) = 1
 
