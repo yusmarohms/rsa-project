@@ -111,10 +111,6 @@ Ciphertext : [30, 86, 32, 32]
 Ciphertext : [30, 86, 32, 32, 139]
 Hasil Dekripsi : HELLO
 
-```{=html}
-<!-- -->
-```
-
 ------------------------------------------------------------------------
 
 # Penjelasan Singkat RSA
