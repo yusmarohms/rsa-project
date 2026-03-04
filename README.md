@@ -1,7 +1,6 @@
 # Implementasi Algoritma RSA dengan Python
 
-Nama: Yusma Rohmatus Sholikha
-NIM: 25051204445
+Nama: Yusma Rohmatus Sholikha | NIM: 25051204445
 
 Repository ini berisi implementasi sederhana dari algoritma **RSA
 (Rivest--Shamir--Adleman)** menggunakan bahasa **Python**.
