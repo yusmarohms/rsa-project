@@ -108,20 +108,21 @@ Contoh hasil ketika program dijalankan:
 Langkah utama algoritma RSA:
 
 1.  Pilih dua bilangan prima `p` dan `q`
-2.  Hitung
-3.  
+   
+   Hitung
+    
     n = p × q
 
-4.  Hitung
+   Hitung
 
     φ(n) = (p-1)(q-1)
 
-4.  Pilih `e` sehingga
+2. Pilih `e` sehingga
 
-    1 < e < φ(n)
-    gcd(e, φ(n)) = 1
+       1 < e < φ(n)
+       gcd(e, φ(n)) = 1
 
-5.  Hitung `d` sebagai modular inverse dari `e`.
+3.  Hitung `d` sebagai modular inverse dari `e`.
 
 Kunci yang dihasilkan:
 
