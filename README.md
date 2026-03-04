@@ -95,17 +95,17 @@ Solusi:
 
 Contoh hasil ketika program dijalankan:
 
-=== HASIL KEY GENERATION ===
-Public Key  : (7, 187)
-Private Key : (23, 187)
+    === HASIL KEY GENERATION ===
+    Public Key  : (7, 187)
+    Private Key : (23, 187)
 
-Masukkan Pesan: HELLO 
-Ciphertext : [30]
-Ciphertext : [30, 86]
-Ciphertext : [30, 86, 32]
-Ciphertext : [30, 86, 32, 32]
-Ciphertext : [30, 86, 32, 32, 139]
-Hasil Dekripsi : HELLO
+    Masukkan Pesan: HELLO 
+    Ciphertext : [30]
+    Ciphertext : [30, 86]
+    Ciphertext : [30, 86, 32]
+    Ciphertext : [30, 86, 32, 32]
+    Ciphertext : [30, 86, 32, 32, 139]
+    Hasil Dekripsi : HELLO
 
 ------------------------------------------------------------------------
 
