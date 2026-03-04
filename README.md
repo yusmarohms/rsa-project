@@ -95,10 +95,6 @@ Solusi:
 
 Contoh hasil ketika program dijalankan:
 
-```{=html}
-<!-- -->
-```
-
 === HASIL KEY GENERATION ===
 Public Key  : (7, 187)
 Private Key : (23, 187)
